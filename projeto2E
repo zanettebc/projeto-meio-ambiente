@@ -54,14 +54,6 @@
     <header>
         <h1>Cuidados com o Meio Ambiente</h1>
     </header>
-
-    <nav>
-        <a href="#sobre">Sobre</a>
-        <a href="#importancia">Importância</a>
-        <a href="#dicas">Dicas</a>
-        <a href="#acoes">Ações</a>
-    </nav>
-
     <section id="sobre">
         <h2>Sobre</h2>
         <p>O meio ambiente engloba todos os seres vivos e não vivos que habitam o planeta Terra. Cuidar dele significa garantir que nossas ações atuais não comprometam a qualidade de vida das gerações futuras.</p>
@@ -93,9 +85,5 @@
             <li>Pressionar por políticas públicas que promovam o desenvolvimento sustentável.</li>
         </ul>
     </section>
-
-    <footer>
-        <p>&copy; 2024 Cuidados com o Meio Ambiente. Todos os direitos reservados.</p>
-    </footer>
 </body>
 </html>
